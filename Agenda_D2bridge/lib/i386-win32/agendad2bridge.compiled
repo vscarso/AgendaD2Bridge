@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CONFIG>
-  <Lazarus Version="4.6"/>
-  <Compiler Value="C:\lazarus\fpc\3.2.2\bin\i386-win32\fpc.exe" Date="1549053684"/>
-  <Params Value="-MObjFPC -Scghi -O1 -g -gl -l -vewnhibq -FuC:\Users\Administrator\Documents\trae_projects\Agenda_D2bridge\ -FuC:\lazarus\packager\units\i386-win32 -FuC:\lazarus\components\lazdebuggers\lazdebuggerintf\lib\i386-win32 -FuC:\lazarus\components\lazutils\lib\i386-win32 -FuC:\lazarus\components\buildintf\units\i386-win32 -FuC:\lazarus\components\debuggerintf\lib\i386-win32 -FuC:\lazarus\components\freetype\lib\i386-win32 -FuC:\lazarus\lcl\units\i386-win32 -FuC:\lazarus\lcl\units\i386-win32\win32 -FuC:\lazarus\components\lazcontrols\lib\i386-win32\win32 -FuC:\lazarus\components\ideintf\units\i386-win32\win32 -FUC:\Users\Administrator\Documents\trae_projects\Agenda_D2bridge\lib\i386-win32\ -dLCL -dLCLwin32 agendad2bridge.pas"/>
-</CONFIG>
