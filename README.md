@@ -1,9 +1,10 @@
 # 📦 Componente TD2BridgeAgenda (VSComponents)
 
-Componente para Lazarus/FPC criado por Vitor Scarso.
 O `TD2BridgeAgenda` é um componente visual para Lazarus que automatiza a criação de agendas dinâmicas na Web usando o framework **D2Bridge**. Ele transforma o resultado de um `TDataSet` em um grid interativo estilo Google Calendar baseado em Bootstrap.
 
 ---
+
+
 
 ## 🚀 Instalação no Lazarus
 
@@ -139,10 +140,6 @@ Memo2.Lines.Text := D2BridgeAgenda1.ExportConfigJSON;
 
 // Para restaurar:
 D2BridgeAgenda1.ImportVisualJSON(StringSalva);
-```
-
----
-
 ```
 
 ---
