@@ -139,7 +139,7 @@ Memo1.Lines.Text := D2BridgeAgenda1.ExportVisualJSON;
 Memo2.Lines.Text := D2BridgeAgenda1.ExportConfigJSON;
 
 // Para restaurar:
-D2BridgeAgenda1.ImportVisualJSON(StringSalva);
+D2BridgeAgenda1.ImportVisualJSON(StringSalva); 
 ```
 
 ---
